@@ -1,0 +1,22 @@
+.accordion-collapsed {
+	padding: 0.5rem;
+	background-color: #f1f1f1;
+	border:1px solid black;
+}
+
+.accordion-content {
+	padding: 0.5rem;
+	border-left:1px solid black;
+	border-right:1px solid black;
+	border-bottom:1px solid black;
+	display:none;
+}
+
+
+.accordion-content .active {
+	display:block;
+}
+
+
+
+
